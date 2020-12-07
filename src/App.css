@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: ;
+    background-color: #696969;
+    color: #D3D3D3;
+}
+.searchh{
+    align-items: center;
+    display: flex;
+}

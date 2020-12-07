@@ -1,0 +1,16 @@
+.movie-card{
+    border-radius: 6rem;
+    background: white;
+    position: relative;
+    margin:1rem ;
+    width: 350px ;
+    box-shadow: 0 8 20 0 ;
+}
+.movie-card > img {
+    height:400px ;
+    width: 100%;
+}
+.movie-card > p {
+    color: rgba(156, 170 , 197, 0,733);
+    padding: 0,5rem;
+}
